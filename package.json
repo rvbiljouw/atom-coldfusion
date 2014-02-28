@@ -1,0 +1,15 @@
+{
+  "name": "atom-coldfusion",
+  "version": "0.1",
+  "private": false,
+  "description": "ColdFusion support for Atom",
+  "repository": "https://www.github.com/rvbiljouw/atom-coldfusion",
+  "keywords": [
+    "ColdFusion"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
